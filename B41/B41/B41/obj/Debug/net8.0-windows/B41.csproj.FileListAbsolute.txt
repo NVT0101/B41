@@ -1,0 +1,17 @@
+C:\Users\aolin\OneDrive\Documents\Desktop\THỜI\VS\B41\B41\bin\Debug\net8.0-windows\B41.exe
+C:\Users\aolin\OneDrive\Documents\Desktop\THỜI\VS\B41\B41\bin\Debug\net8.0-windows\B41.deps.json
+C:\Users\aolin\OneDrive\Documents\Desktop\THỜI\VS\B41\B41\bin\Debug\net8.0-windows\B41.runtimeconfig.json
+C:\Users\aolin\OneDrive\Documents\Desktop\THỜI\VS\B41\B41\bin\Debug\net8.0-windows\B41.dll
+C:\Users\aolin\OneDrive\Documents\Desktop\THỜI\VS\B41\B41\bin\Debug\net8.0-windows\B41.pdb
+C:\Users\aolin\OneDrive\Documents\Desktop\THỜI\VS\B41\B41\obj\Debug\net8.0-windows\B41.MainForm.resources
+C:\Users\aolin\OneDrive\Documents\Desktop\THỜI\VS\B41\B41\obj\Debug\net8.0-windows\B41.csproj.GenerateResource.cache
+C:\Users\aolin\OneDrive\Documents\Desktop\THỜI\VS\B41\B41\obj\Debug\net8.0-windows\B41.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aolin\OneDrive\Documents\Desktop\THỜI\VS\B41\B41\obj\Debug\net8.0-windows\B41.AssemblyInfoInputs.cache
+C:\Users\aolin\OneDrive\Documents\Desktop\THỜI\VS\B41\B41\obj\Debug\net8.0-windows\B41.AssemblyInfo.cs
+C:\Users\aolin\OneDrive\Documents\Desktop\THỜI\VS\B41\B41\obj\Debug\net8.0-windows\B41.csproj.CoreCompileInputs.cache
+C:\Users\aolin\OneDrive\Documents\Desktop\THỜI\VS\B41\B41\obj\Debug\net8.0-windows\B41.dll
+C:\Users\aolin\OneDrive\Documents\Desktop\THỜI\VS\B41\B41\obj\Debug\net8.0-windows\refint\B41.dll
+C:\Users\aolin\OneDrive\Documents\Desktop\THỜI\VS\B41\B41\obj\Debug\net8.0-windows\B41.pdb
+C:\Users\aolin\OneDrive\Documents\Desktop\THỜI\VS\B41\B41\obj\Debug\net8.0-windows\B41.genruntimeconfig.cache
+C:\Users\aolin\OneDrive\Documents\Desktop\THỜI\VS\B41\B41\obj\Debug\net8.0-windows\ref\B41.dll
+C:\Users\aolin\OneDrive\Documents\Desktop\THỜI\VS\B41\B41\obj\Debug\net8.0-windows\B41.Properties.Resources.resources
